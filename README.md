@@ -17,3 +17,5 @@ Uses raster, sf, elevatr, ggplot2, and tanaka packages to produce elegant terrai
 
 -Applications:
 Ideal for physical geography visualization, cartographic design, educational material, or terrain analysis in the Western Balkans region.
+
+![FBIH_3d_DEM](https://github.com/user-attachments/assets/6b366416-3e69-4b1c-8920-50474b409d4b)
